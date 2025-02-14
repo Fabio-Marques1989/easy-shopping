@@ -1,5 +1,5 @@
 <div align="center">
-  <img>
+  <img src="https://github.com/Fabio-Marques1989/easy-shopping/blob/master/assets/img/mockup-desk-mobile.png?raw=true" alt="mockup-desk-mobile" width="550"/>
 </div>
   
 <h1 align="center">Easy Shopping </h1>
@@ -31,7 +31,7 @@ O projeto é composto pelos seguintes arquivos:
 2. Abra o arquivo `index.html` em um navegador.
 
 ## Autor
-Desenvolvido como parte do aprendizado em HTML e CSS durante o curso.
+Desenvolvido por Fabio Marques como parte do aprendizado em HTML e CSS durante o curso <a href="https://rodolfomori.com.br/devclub-comercial/" target="_blank">DevClub</a>.
 
 
 
